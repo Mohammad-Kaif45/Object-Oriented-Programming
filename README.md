@@ -37,7 +37,8 @@ public class Account {
             this.balance = amount;
         }
     }
-} ```
+}
+```
 
 
 # 🚀 OOP Pillars: Polymorphism, Inheritance, & Abstraction
@@ -135,6 +136,4 @@ This occurs when a subclass provides a specific implementation of a method that 
 
 ---
 
-### 📬 Connect
-* [GitHub Profile](https://github.com/YOUR-USERNAME)
-* [LinkedIn](https://linkedin.com/in/YOUR-PROFILE)
+
