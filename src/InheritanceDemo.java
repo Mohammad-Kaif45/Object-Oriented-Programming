@@ -1,6 +1,6 @@
 public class InheritanceDemo {
     // Super class
-    static class Animal {
+    static class Animal { 
         void eat(){
             System.out.println("Animal is eating");
         }
